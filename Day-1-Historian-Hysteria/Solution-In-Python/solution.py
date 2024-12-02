@@ -1,4 +1,4 @@
-with open("data.txt", "r") as file:
+with open("../data.txt", "r") as file:
 
     left_list = []
     right_list = []

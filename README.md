@@ -10,19 +10,8 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 ## Languages Used
 
-<p align="left">
+[Python]("https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg")
 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a>
+[Golang]("https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg")
 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a>
-
-    <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="c" width="40" height="40"/> 
-    </a>
-</p>
-
-
+[C]("https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg")
